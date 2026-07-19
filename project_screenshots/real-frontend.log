@@ -1,0 +1,28 @@
+
+> frontend@0.1.0 dev
+> next dev
+
+▲ Next.js 16.2.4 (Turbopack)
+- Local:         http://localhost:3000
+- Network:       http://10.114.161.234:3000
+✓ Ready in 496ms
+Creating turbopack project {
+  dir: 'C:\\Users\\Rishikesh\\Downloads\\ML_miniproject-main\\frontend',
+  testMode: true
+}
+
+  We detected TypeScript in your project and reconfigured your tsconfig.json file for you.
+  The following suggested values were added to your tsconfig.json. These values can be changed to fit your project's needs:
+
+  	- target was set to ES2017 (For top-level `await`. Note: Next.js only polyfills for the esmodules target.)
+  	- include was updated to add '.next/dev/types/**/*.ts'
+
+  The following mandatory changes were made to your tsconfig.json:
+
+  	- jsx was set to react-jsx (next.js uses the React automatic runtime)
+
+
+ GET / 200 in 2.9s (next.js: 2.7s, application-code: 157ms)
+ GET / 200 in 51ms (next.js: 4ms, application-code: 46ms)
+ GET /browse 200 in 434ms (next.js: 416ms, application-code: 18ms)
+ GET /admin 200 in 336ms (next.js: 300ms, application-code: 36ms)
